@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">emoji</string>
+    <string name="action_settings">Settings</string>
+    <string name="random">Random</string>
+    <string name="particular">Particular</string>
+    <string name="title_activity_random_emoji">RandomEmoji</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_emoji_list">EmojiList</string>
+    <string name="title_activity_emoji_particular">EmojiParticular</string>
+    <string name="choose">Choose An Emotion</string>
+    <string name="longPress">Long press for a random one</string>
+    <string name="copy">Tap to copy to clipboard</string>
+    <string name="favorite">Long press to add to favorites</string>
+    <string name="hello">hello</string>
+    <string name="favorite_list">Favorite Emotions</string>
+    <string name="favorite_instructions">Soft press to copy - Long press to delete</string>
+
+</resources>
